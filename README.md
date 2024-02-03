@@ -27,6 +27,6 @@ If you need in-depth instruction on theories, please step into the paper folder.
 * **Pengwei Yang** -*Main contributor*-
 （https://wwww.pengweiyang.com）
 
-* **Chongyangzi Teng** -*Assistant*- （https://www.researchgate.net/profile/Chongyangzi-Teng）
-* **Jack George Mangos** -*Assistant*- （https://www.researchgate.net/profile/Jack-Mangos）
+* **Chongyangzi Teng** -*Minor contributor*- （https://www.researchgate.net/profile/Chongyangzi-Teng）
+* **Jack George Mangos** -*Minor contributor*- （https://www.researchgate.net/profile/Jack-Mangos）
 
